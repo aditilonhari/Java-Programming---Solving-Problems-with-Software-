@@ -5,8 +5,10 @@ PURPOSE OF PROJECT:  Learn about basic control flow; object-oriented concepts in
 VERSION or DATE: v1, 05/14/2016 AUTHOR: Aditi
 
 PROJECT DESCRIPTION: Multiple sub-projects implemented to learn and implement problem solving techniques in Java.  
-    a) findAllGenes - finds and prints a gene in a strand of DNA.  
-    b) findWebLinks - reads from a file at URL location and prints each URL on the page that is a link to youtube.com.  
+    a) batchInversions - creating new images that are photographic negatives (or inverted images) of selected images.  
+    b) findAllGenes - finds and prints a gene in a strand of DNA.  
+    c) findWebLinks - reads from a file at URL location and prints each URL on the page that is a link to youtube.com.  
+    d) grayScaleConvertor - processes images, and creates new images that are grayscale versions of each image.   
 
 LEARNINGS FROM PROJECT:   
 1. Edit, compile, and run a Java program;  
